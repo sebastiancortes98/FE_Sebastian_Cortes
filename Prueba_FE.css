@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .jumbotron {
+    background-image: url('imagen_fondo.jpg');
+    background-size: cover;
+    color: #fff;
+  }
+  
